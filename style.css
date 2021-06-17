@@ -1,0 +1,34 @@
+.Título{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 1rem;
+    
+}
+ul{
+font-family: 'Stint Ultra Condensed', cursive;
+font-size: 1em;
+
+
+}
+#Instagram{
+    list-style-image: url(./imagens/Insta.png);
+    
+}
+#Facebook{
+    list-style-image: url(./imagens/face.png);
+    
+}
+#Twitter{
+    list-style-image: url(./imagens/Twitter.png);
+
+}
+#Base{
+    background-image: url(./imagens/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+    padding: 5px;
+
+
+}
+a{
+    color: red;
+}
